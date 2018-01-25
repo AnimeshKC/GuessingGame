@@ -1,0 +1,12 @@
+You can choose any number from 1 to 500 in this game. 
+Points are calculated based on the difference between the two numbers. 
+If the computer guesses your number, it gains 100 points.
+For every points apart from your number, the points the computer gains drops by one. 
+If the difference is above 100 but below 200, you gain points equivalent to 200 minus the difference.
+For example, if the difference is 25, the computer gains 75 points. If the difference is 150, the player gains 50 points.
+If the difference is 200 or more, no one gets points. 
+At any point, you can type "q" instead of a number to quit the game. 
+Otherwise, the game ends when one player gets 300 points.
+The computer will continue to learn based on what the opponent chooses. 
+After a game ends, you can rematch the computer.
+If you do, you can either choose to reset its data or keep its information about the previous game.
